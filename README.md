@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 🎮 About Me
-### 안녕하세요 👋 개발자 '김현지'입니다.
+### 안녕하세요, 개발자 김현지입니다.
 
 <br>
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Engine
+### Engine & Languages
 ![Unity](https://img.shields.io/badge/Unity-Black?style=for-the-badge&logo=Unity&logoColor=ffffff&color=000000)
 ![C#](https://img.shields.io/badge/C%23-Black?style=for-the-badge&logoColor=ffffff&color=c744eb)
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=white&labelColor=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
@@ -30,7 +30,6 @@
 
 ### Networking & Data
 ![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <!--
 ![Illustrator](https://img.shields.io/badge/Illustrator-orange?style=for-the-badge&labelColor=%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20)
