@@ -47,18 +47,22 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[CocoDoogy](https://github.com/SchneeWalen48/CocoDoogy-Public)** | Android 기업 협약, 퍼즐 | Unity, C# , Firebase , Jira |
-| **[Moonlit Rush](https://github.com/SchneeWalen48/MoonlitRush)** | 레이싱, 물리 | Unity, C# , GitHub |
-| **[Don't Nudge Me](https://github.com/SchneeWalen48/DontNudgeMe-Public)** | 실시간 캐주얼 배틀 로얄, 멀티 플레이 | Unity, C#, Photon Pun2, GitHub |
-| **[Elemental Twins : Trials of the Temple](https://github.com/SchneeWalen48/ElementalTwins)** | 2D 슈팅 퍼즐 플랫포머 | Unity, C#, Photoshop, Piskel, GarageBand |
-| **[Shader Museum](https://github.com/SchneeWalen48/ShaderMuseum)** | VR, 실감형, 인터랙티브 아트 | Unity, C# |
-| **[The secret of the Floating island](https://github.com/SchneeWalen48/FloatingIsland-Public)** | VR, PC, 어드벤처, 스토리 | Unity, C#, Lua, Blender, Photoshop, Illustrator, After Effects, GarageBand |
-
+| **[CocoDoogy](https://github.com/SchneeWalen48/CocoDoogy-Public)** | Android 기업 협약 / 퍼즐 | Unity, C# , Jira |
+| **[Moonlit Rush](https://github.com/SchneeWalen48/MoonlitRush)** | 물리 기반 아케이드 레이싱 | Unity, C# |
+| **[Don't Nudge Me](https://github.com/SchneeWalen48/DontNudgeMe-Public)** | 실시간 멀티플레이 캐주얼 배틀 로얄  | Unity, C#, Photon Pun2 |
+| **[Elemental Twins : Trials of the Temple](https://github.com/SchneeWalen48/ElementalTwins)** | 2D 슈팅 퍼즐 플랫포머 (1인 제작) | Unity, C# |
+| **[Shader Museum](https://github.com/SchneeWalen48/ShaderMuseum)** | VR 인터랙티브 아트 (Shader 실험 1인 토이 프로젝트) | Unity, C# |
+| **[The Secret of the Floating Island](https://github.com/SchneeWalen48/FloatingIsland-Public)** | VR / PC 어드벤처 스토리 | Unity, Lua, Timeline, Cinematic, Level Design |
 
 </div>
 
+<!-- ---
+
 <div align="center">
+
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats-rho-ten-ih276cldf3.vercel.app/api/top-langs/?username=SchneeWalen48&layout=compact)
 
 </div>
+-->
