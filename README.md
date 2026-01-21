@@ -5,8 +5,8 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/SchneeWalen48-%231e90ff?style=for-the-badge&logo=Github)](https://github.com/SchneeWalen48)
-[![Email](https://img.shields.io/badge/schnee96s%40gmail.com-lightgrey?style=for-the-badge&logo=GMail)](mailto:schnee96s@gmail.com)
+[![GitHub](https://img.shields.io/badge/schneewalen48-%231e90ff?style=for-the-badge&logo=Github&logoColor=white&label=GITHUB&labelColor=%231f1f1f)](https://github.com/SchneeWalen48)
+[![Email](https://img.shields.io/badge/schnee96s%40gmail.com-%233f3f3f?style=for-the-badge&logo=Gmail&label=E-MAIL&labelColor=%231f1f1f)](mailto:schnee96s@gmail.com)
 
 </div>
 
