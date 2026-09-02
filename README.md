@@ -49,3 +49,7 @@
 | **[Shader Museum](https://github.com/SchneeWalen48/ShaderMuseum)** | VR 토이, 인터랙티브 아트 | Unity, C#, Oculus |
 
 </div>
+
+<div>
+  [QA문서](https://app.notion.com/p/QA-38feddbae78d8026a33dd02856604fe2?source=copy_link)
+</div>
