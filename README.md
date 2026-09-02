@@ -50,6 +50,8 @@
 
 </div>
 
-<div>
+<div align="center">
+  
   [QA문서](https://app.notion.com/p/QA-38feddbae78d8026a33dd02856604fe2?source=copy_link)
+  
 </div>
