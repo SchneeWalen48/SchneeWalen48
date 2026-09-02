@@ -21,7 +21,8 @@
 ### 💻 Engine & Language
 ![Unity](https://img.shields.io/badge/UNITY%20-%20black?style=for-the-badge&logo=Unity)
 ![CSharp](https://img.shields.io/badge/C%23%20-%20%238e2bff?style=for-the-badge)
-![JS](https://img.shields.io/badge/JS%20-%20yellow?style=for-the-badge)
+![JS]([https://img.shields.io/badge/logo-javascript](https://img.shields.io/badge/JS%20-%20javascript?style=for-the-badge&logo=javascript&color=blue
+))
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=Git&logoColor=white)
@@ -54,5 +55,7 @@
 ## QA 문서
 
 <div align="center">
+  
   [QA문서 - 코코두기 & Brick Breaker](https://app.notion.com/p/QA-38feddbae78d8026a33dd02856604fe2?source=copy_link)
+  
 </div>
